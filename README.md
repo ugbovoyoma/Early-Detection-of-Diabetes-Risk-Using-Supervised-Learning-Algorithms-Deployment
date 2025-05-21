@@ -100,5 +100,12 @@ Additionally, the model is designed for real-world deployment as a user-friendly
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-risk-prediction.git
+   git clone https://github.com/ugbovoyoma/diabetes-risk-prediction.git
    cd diabetes-risk-prediction
+
+## Author's Details
+Author: Ugbovo Yoma
+
+Email: ugbovoyoma@gmail.com
+
+Linkedin: https://www.linkedin.com/in/ugbovoyoma/   
