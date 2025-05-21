@@ -92,7 +92,6 @@ Additionally, the model is designed for real-world deployment as a user-friendly
 
 - Add more advanced ensemble methods (e.g., XGBoost, AdaBoost)
 - Hyperparameter tuning using `GridSearchCV`
-- Deploy model via Flask or Streamlit for user access
 - Incorporate additional health indicators for better prediction accuracy
 
 ---
