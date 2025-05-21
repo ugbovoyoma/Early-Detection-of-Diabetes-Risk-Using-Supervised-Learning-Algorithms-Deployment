@@ -27,7 +27,7 @@ Additionally, the model is designed for real-world deployment as a user-friendly
 - **Target Variable**: `Outcome` (0 = Non-Diabetic, 1 = Diabetic)  
 - **Missing Values**: None  
 - **Imbalance**: Yes (More non-diabetic cases)
-
+- **Reference:** https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ---
 
 ## Tools and Libraries
