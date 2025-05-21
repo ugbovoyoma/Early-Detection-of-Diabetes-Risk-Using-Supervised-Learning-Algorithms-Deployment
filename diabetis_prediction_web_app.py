@@ -12,9 +12,9 @@ import pickle
 import streamlit as st
 
 # loading the saved model
-loaded_model = pickle.load(open('trained_model.sav', 'rb'))
 
-loaded_model
+with open('trained_model.sav', 'rb') as f:
+    loaded_model = pickle.load(f)
 
 # Define a function to make predictions
 
