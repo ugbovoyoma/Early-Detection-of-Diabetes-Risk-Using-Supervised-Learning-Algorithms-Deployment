@@ -30,9 +30,9 @@ def predict_diabetes(input_data):
     print(prediction)
 
     if (prediction[0] == 0):
-        return 'The person is not diabetic'
+        return 'The person is not diabetic, so no need to worry, but it is always good to maintain a healthy lifestyle. Regular checkups are also recommended.')
     else:
-        return 'The person is diabetic'
+        return 'The person is diabetic kindly follow a healthy diet and exercise regularly to maintain a healthy lifestyle. ALso, consult a doctor for further advice. Regular checkups are also recommended.')
 
 # Define a function for the Streamlit app
 def main():
